@@ -1,0 +1,332 @@
+﻿review_key,group,position,token,nltk_tag,my_tag
+3592,Roman Urdu,1,mujhe,NOUN,PRON
+3592,Roman Urdu,2,order,NOUN,NOUN
+3592,Roman Urdu,3,mil,NOUN,VERB
+3592,Roman Urdu,4,gia,NOUN,VERB
+3592,Roman Urdu,5,ur,ADJ,OTHER
+3592,Roman Urdu,6,bohat,PRON,ADV
+3592,Roman Urdu,7,pasan,ADJ,ADJ
+3592,Roman Urdu,8,aya,NOUN,VERB
+3592,Roman Urdu,9,acha,NOUN,ADJ
+3592,Roman Urdu,10,qeemat,NOUN,NOUN
+3592,Roman Urdu,11,ur,ADJ,OTHER
+3592,Roman Urdu,12,darmiyani,NOUN,ADJ
+2775,Roman Urdu,1,khareedne,NOUN,VERB
+2775,Roman Urdu,2,ka,NOUN,OTHER
+2775,Roman Urdu,3,soch,NOUN,VERB
+2775,Roman Urdu,4,raha,NOUN,VERB
+2775,Roman Urdu,5,hon,NOUN,VERB
+2775,Roman Urdu,6,daraz,NOUN,NOUN
+2775,Roman Urdu,7,kabhi,NOUN,ADV
+2775,Roman Urdu,8,mayoos,NOUN,ADJ
+2775,Roman Urdu,9,nahi,NOUN,ADV
+2775,Roman Urdu,10,karta,NOUN,VERB
+3198,Roman Urdu,1,kal,NOUN,ADV
+3198,Roman Urdu,2,mujhe,NOUN,PRON
+3198,Roman Urdu,3,ye,NOUN,PRON
+3198,Roman Urdu,4,mila,NOUN,VERB
+3198,Roman Urdu,5,bohat,OTHER,ADV
+3198,Roman Urdu,6,buri,ADJ,ADJ
+3198,Roman Urdu,7,mayar,NOUN,NOUN
+3198,Roman Urdu,8,aur,NOUN,OTHER
+3198,Roman Urdu,9,bohat,OTHER,ADV
+3198,Roman Urdu,10,sasta,ADJ,ADJ
+3198,Roman Urdu,11,mal,ADJ,NOUN
+3198,Roman Urdu,12,apne,NOUN,PRON
+655,Roman Urdu,1,size,NOUN,NOUN
+655,Roman Urdu,2,aik,NOUN,OTHER
+655,Roman Urdu,3,dosray,NOUN,PRON
+655,Roman Urdu,4,se,NOUN,OTHER
+655,Roman Urdu,5,bilkul,NOUN,ADV
+655,Roman Urdu,6,mukhtalif,NOUN,ADJ
+655,Roman Urdu,7,hain,NOUN,VERB
+655,Roman Urdu,8,kabhi,NOUN,ADV
+655,Roman Urdu,9,bhi,NOUN,OTHER
+655,Roman Urdu,10,cheeze,NOUN,NOUN
+655,Roman Urdu,11,garmi,NOUN,NOUN
+655,Roman Urdu,12,ki,NOUN,OTHER
+985,Roman Urdu,1,mughy,NOUN,PRON
+985,Roman Urdu,2,iss,ADJ,PRON
+985,Roman Urdu,3,ki,NOUN,OTHER
+985,Roman Urdu,4,sound,NOUN,NOUN
+985,Roman Urdu,5,bhot,ADJ,ADV
+985,Roman Urdu,6,acha,NOUN,ADJ
+985,Roman Urdu,7,lagi,NOUN,VERB
+985,Roman Urdu,8,hai,NOUN,VERB
+985,Roman Urdu,9,aur,OTHER,OTHER
+985,Roman Urdu,10,iss,NOUN,PRON
+985,Roman Urdu,11,may,VERB,OTHER
+985,Roman Urdu,12,kaafi,VERB,ADV
+2474,Roman Urdu,1,maine,NOUN,PRON
+2474,Roman Urdu,2,yeh,NOUN,PRON
+2474,Roman Urdu,3,usay,VERB,PRON
+2474,Roman Urdu,4,ki,ADJ,VERB
+2474,Roman Urdu,5,hai,NOUN,VERB
+2474,Roman Urdu,6,aur,NOUN,OTHER
+2474,Roman Urdu,7,mein,NOUN,PRON
+2474,Roman Urdu,8,hairaan,NOUN,ADJ
+2474,Roman Urdu,9,hon,NOUN,VERB
+2474,Roman Urdu,10,iss,ADJ,PRON
+2474,Roman Urdu,11,ke,NOUN,OTHER
+2474,Roman Urdu,12,kaam,NOUN,NOUN
+588,Roman Urdu,1,bilkul,NOUN,ADV
+588,Roman Urdu,2,isi,NOUN,PRON
+588,Roman Urdu,3,terhan,NOUN,NOUN
+588,Roman Urdu,4,jaisay,VERB,ADV
+588,Roman Urdu,5,woh,NOUN,PRON
+588,Roman Urdu,6,tasweer,VERB,NOUN
+588,Roman Urdu,7,mein,NOUN,OTHER
+588,Roman Urdu,8,nazar,ADJ,NOUN
+588,Roman Urdu,9,atay,VERB,VERB
+588,Roman Urdu,10,hain,ADJ,VERB
+588,Roman Urdu,11,agarchay,NOUN,OTHER
+588,Roman Urdu,12,khalis,NOUN,ADJ
+910,Roman Urdu,1,acha,NOUN,ADJ
+910,Roman Urdu,2,aur,NOUN,OTHER
+910,Roman Urdu,3,mojizana,NOUN,ADJ
+910,Roman Urdu,4,tor,NOUN,NOUN
+910,Roman Urdu,5,par,NOUN,OTHER
+910,Roman Urdu,6,wohi,NOUN,PRON
+910,Roman Urdu,7,shai,NOUN,NOUN
+910,Roman Urdu,8,mila,NOUN,VERB
+910,Roman Urdu,9,jis,NOUN,PRON
+910,Roman Urdu,10,ka,NOUN,OTHER
+910,Roman Urdu,11,mein,NOUN,PRON
+910,Roman Urdu,12,nahi,NOUN,ADV
+781,Roman Urdu,1,acha,NOUN,ADJ
+781,Roman Urdu,2,daraz,NOUN,NOUN
+781,Roman Urdu,3,ke,NOUN,OTHER
+781,Roman Urdu,4,zareya,NOUN,OTHER
+781,Roman Urdu,5,delivery,NOUN,NOUN
+781,Roman Urdu,6,waqt,NOUN,NOUN
+781,Roman Urdu,7,par,NOUN,OTHER
+781,Roman Urdu,8,hai,NOUN,VERB
+781,Roman Urdu,9,thnx,NOUN,OTHER
+455,Roman Urdu,1,batter,NOUN,NOUN
+455,Roman Urdu,2,bhot,NOUN,ADV
+455,Roman Urdu,3,waek,NOUN,ADJ
+455,Roman Urdu,4,hai,NOUN,VERB
+455,Roman Urdu,5,iss,ADJ,PRON
+455,Roman Urdu,6,ki,NOUN,OTHER
+455,Roman Urdu,7,aur,NOUN,OTHER
+455,Roman Urdu,8,waterproof,NOUN,ADJ
+455,Roman Urdu,9,b,NOUN,OTHER
+455,Roman Urdu,10,nahi,NOUN,ADV
+455,Roman Urdu,11,hai,NOUN,VERB
+455,Roman Urdu,12,ya,NOUN,PRON
+2267,Roman Urdu,1,packing,VERB,NOUN
+2267,Roman Urdu,2,bohat,PRON,ADV
+2267,Roman Urdu,3,acha,ADJ,ADJ
+2267,Roman Urdu,4,aur,NOUN,OTHER
+2267,Roman Urdu,5,qeemat,NOUN,NOUN
+2267,Roman Urdu,6,bohat,OTHER,ADV
+2267,Roman Urdu,7,kaam,ADJ,ADJ
+2267,Roman Urdu,8,thi,NOUN,VERB
+2267,Roman Urdu,9,shukriya,NOUN,OTHER
+2267,Roman Urdu,10,daraz,NOUN,NOUN
+2489,Roman Urdu,1,bara,NOUN,ADV
+2489,Roman Urdu,2,acha,NOUN,ADJ
+2489,Roman Urdu,3,hai,NOUN,VERB
+2489,Roman Urdu,4,jaldi,NOUN,ADV
+2489,Roman Urdu,5,mein,NOUN,OTHER
+2489,Roman Urdu,6,touch,VERB,NOUN
+2489,Roman Urdu,7,up,OTHER,OTHER
+2489,Roman Urdu,8,ke,NOUN,OTHER
+2489,Roman Urdu,9,liye,NOUN,OTHER
+2915,Roman Urdu,1,miyaar,NOUN,NOUN
+2915,Roman Urdu,2,bura,NOUN,ADJ
+2915,Roman Urdu,3,hai,NOUN,VERB
+2915,Roman Urdu,4,ur,ADJ,OTHER
+2915,Roman Urdu,5,cheezki,NOUN,NOUN
+2915,Roman Urdu,6,bunawat,NOUN,NOUN
+2915,Roman Urdu,7,mein,NOUN,OTHER
+2915,Roman Urdu,8,bhi,NOUN,OTHER
+2915,Roman Urdu,9,kami,NOUN,NOUN
+2915,Roman Urdu,10,hai,NOUN,VERB
+2915,Roman Urdu,11,ur,ADJ,OTHER
+2915,Roman Urdu,12,mazboot,NOUN,ADJ
+856,Roman Urdu,1,tane,NOUN,NOUN
+856,Roman Urdu,2,banay,NOUN,VERB
+856,Roman Urdu,3,uch,ADJ,ADJ
+856,Roman Urdu,4,to,OTHER,OTHER
+856,Roman Urdu,5,hai,VERB,VERB
+856,Roman Urdu,6,aur,ADJ,OTHER
+856,Roman Urdu,7,iss,ADJ,PRON
+856,Roman Urdu,8,ka,NOUN,OTHER
+856,Roman Urdu,9,mad,NOUN,NOUN
+856,Roman Urdu,10,hay,NOUN,VERB
+856,Roman Urdu,11,bohat,OTHER,ADV
+856,Roman Urdu,12,herat,NOUN,NOUN
+3375,Roman Urdu,1,app,ADJ,NOUN
+3375,Roman Urdu,2,discount,NOUN,NOUN
+3375,Roman Urdu,3,ka,NOUN,OTHER
+3375,Roman Urdu,4,kia,NOUN,PRON
+3375,Roman Urdu,5,matlab,NOUN,NOUN
+3375,Roman Urdu,6,hai,NOUN,VERB
+3375,Roman Urdu,7,may,VERB,PRON
+3375,Roman Urdu,8,apni,VERB,PRON
+3375,Roman Urdu,9,kharidari,VERB,NOUN
+3375,Roman Urdu,10,karne,ADJ,VERB
+3375,Roman Urdu,11,laga,NOUN,VERB
+3375,Roman Urdu,12,howa,NOUN,VERB
+3614,English/Mixed,1,bohat,OTHER,ADV
+3614,English/Mixed,2,kaam,VERB,ADJ
+3614,English/Mixed,3,miyaar,ADJ,NOUN
+3614,English/Mixed,4,ki,NOUN,OTHER
+3614,English/Mixed,5,chizin,NOUN,NOUN
+3614,English/Mixed,6,aur,NOUN,OTHER
+3614,English/Mixed,7,chhootey,NOUN,ADJ
+3614,English/Mixed,8,size,NOUN,NOUN
+3614,English/Mixed,9,jaisay,NOUN,OTHER
+3614,English/Mixed,10,darmiyanay,NOUN,ADJ
+3614,English/Mixed,11,size,NOUN,NOUN
+1246,English/Mixed,1,bottle,ADJ,NOUN
+1246,English/Mixed,2,cap,NOUN,NOUN
+1246,English/Mixed,3,was,VERB,VERB
+1246,English/Mixed,4,broken,VERB,ADJ
+1246,English/Mixed,5,and,OTHER,OTHER
+1246,English/Mixed,6,thay,ADJ,PRON
+1246,English/Mixed,7,scent,NOUN,NOUN
+1246,English/Mixed,8,iss,NOUN,VERB
+1246,English/Mixed,9,tu,NOUN,ADV
+1246,English/Mixed,10,strong,ADJ,ADJ
+1246,English/Mixed,11,like,OTHER,OTHER
+1246,English/Mixed,12,overpowering,VERB,ADJ
+988,English/Mixed,1,try,VERB,VERB
+988,English/Mixed,2,telemart,NOUN,NOUN
+988,English/Mixed,3,weha,OTHER,ADV
+988,English/Mixed,4,iss,ADJ,PRON
+988,English/Mixed,5,se,NOUN,OTHER
+988,English/Mixed,6,susta,ADJ,ADJ
+988,English/Mixed,7,price,NOUN,NOUN
+988,English/Mixed,8,mein,NOUN,OTHER
+988,English/Mixed,9,available,ADJ,ADJ
+988,English/Mixed,10,hai,NOUN,VERB
+988,English/Mixed,11,yehe,NOUN,PRON
+988,English/Mixed,12,hi,NOUN,OTHER
+1776,English/Mixed,1,bhai,NOUN,NOUN
+1776,English/Mixed,2,maine,NOUN,PRON
+1776,English/Mixed,3,du,NOUN,OTHER
+1776,English/Mixed,4,dafa,NOUN,NOUN
+1776,English/Mixed,5,order,NOUN,NOUN
+1776,English/Mixed,6,kia,NOUN,VERB
+1776,English/Mixed,7,hai,NOUN,VERB
+1776,English/Mixed,8,done,VERB,OTHER
+1776,English/Mixed,9,dafa,NOUN,NOUN
+1776,English/Mixed,10,din,NOUN,NOUN
+1776,English/Mixed,11,baad,NOUN,ADV
+1776,English/Mixed,12,delivery,NOUN,NOUN
+2926,English/Mixed,1,meine,NOUN,PRON
+2926,English/Mixed,2,teen,ADJ,OTHER
+2926,English/Mixed,3,order,NOUN,NOUN
+2926,English/Mixed,4,kiya,NOUN,VERB
+2926,English/Mixed,5,ur,ADJ,OTHER
+2926,English/Mixed,6,san,ADJ,PRON
+2926,English/Mixed,7,achay,NOUN,ADJ
+2926,English/Mixed,8,niklay,NOUN,VERB
+141,English/Mixed,1,star,NOUN,NOUN
+141,English/Mixed,2,mega,ADJ,ADJ
+141,English/Mixed,3,battery,NOUN,NOUN
+141,English/Mixed,4,ke,NOUN,OTHER
+141,English/Mixed,5,liye,NOUN,OTHER
+141,English/Mixed,6,jo,NOUN,PRON
+141,English/Mixed,7,aap,NOUN,PRON
+141,English/Mixed,8,baar,NOUN,ADV
+141,English/Mixed,9,baar,NOUN,ADV
+141,English/Mixed,10,chattaan,NOUN,NOUN
+141,English/Mixed,11,karte,NOUN,VERB
+141,English/Mixed,12,hain,NOUN,VERB
+1224,English/Mixed,1,very,ADV,ADV
+1224,English/Mixed,2,good,ADJ,ADJ
+1224,English/Mixed,3,for,OTHER,OTHER
+1224,English/Mixed,4,winter,NOUN,NOUN
+1224,English/Mixed,5,just,ADV,ADV
+1224,English/Mixed,6,ok,NOUN,ADJ
+1224,English/Mixed,7,for,OTHER,OTHER
+1224,English/Mixed,8,summer,NOUN,NOUN
+1877,English/Mixed,1,best,ADJ,ADJ
+1877,English/Mixed,2,hai,NOUN,VERB
+1877,English/Mixed,3,le,NOUN,VERB
+1877,English/Mixed,4,len,VERB,VERB
+1877,English/Mixed,5,high,ADJ,ADJ
+1877,English/Mixed,6,speed,NOUN,NOUN
+1877,English/Mixed,7,and,OTHER,OTHER
+1877,English/Mixed,8,original,ADJ,ADJ
+1877,English/Mixed,9,kingston,NOUN,NOUN
+1877,English/Mixed,10,market,NOUN,NOUN
+1877,English/Mixed,11,mein,NOUN,OTHER
+1877,English/Mixed,12,sb,NOUN,PRON
+1698,English/Mixed,1,bs,NOUN,ADV
+1698,English/Mixed,2,mjhe,NOUN,PRON
+1698,English/Mixed,3,size,NOUN,NOUN
+1698,English/Mixed,4,ka,NOUN,OTHER
+1698,English/Mixed,5,thora,NOUN,ADJ
+1698,English/Mixed,6,issue,VERB,NOUN
+1698,English/Mixed,7,replace,VERB,VERB
+1698,English/Mixed,8,policy,NOUN,NOUN
+1698,English/Mixed,9,itni,NOUN,ADV
+1698,English/Mixed,10,mushkil,NOUN,ADJ
+1698,English/Mixed,11,ha,NOUN,VERB
+3362,English/Mixed,1,behtereen,ADJ,ADJ
+3362,English/Mixed,2,tab,NOUN,NOUN
+3362,English/Mixed,3,meyari,NOUN,ADJ
+3362,English/Mixed,4,qeemat,OTHER,NOUN
+3362,English/Mixed,5,me,PRON,OTHER
+3362,English/Mixed,6,acha,ADJ,ADJ
+3362,English/Mixed,7,camera,NOUN,NOUN
+3362,English/Mixed,8,performance,NOUN,NOUN
+3362,English/Mixed,9,display,NOUN,NOUN
+3362,English/Mixed,10,battery,NOUN,NOUN
+3362,English/Mixed,11,backup,NOUN,NOUN
+3362,English/Mixed,12,sub,NOUN,PRON
+2755,English/Mixed,1,bohat,ADV,ADV
+2755,English/Mixed,2,aala,ADJ,ADJ
+2755,English/Mixed,3,game,NOUN,NOUN
+2755,English/Mixed,4,lastof,VERB,NOUN
+2755,English/Mixed,5,us,PRON,PRON
+2755,English/Mixed,6,best,ADJ,ADJ
+2755,English/Mixed,7,game,NOUN,NOUN
+2755,English/Mixed,8,hai,NOUN,VERB
+2755,English/Mixed,9,shukria,NOUN,OTHER
+2755,English/Mixed,10,daraz,NOUN,NOUN
+525,English/Mixed,1,quality,NOUN,NOUN
+525,English/Mixed,2,product,NOUN,NOUN
+525,English/Mixed,3,hai,NOUN,VERB
+525,English/Mixed,4,aur,ADJ,OTHER
+525,English/Mixed,5,delivery,NOUN,NOUN
+525,English/Mixed,6,timg,NOUN,NOUN
+525,English/Mixed,7,b,NOUN,OTHER
+525,English/Mixed,8,chee,NOUN,ADJ
+525,English/Mixed,9,hai,NOUN,VERB
+3116,English/Mixed,1,ultra,ADJ,ADJ
+3116,English/Mixed,2,concentrate,NOUN,NOUN
+3116,English/Mixed,3,mein,NOUN,OTHER
+3116,English/Mixed,4,order,NOUN,NOUN
+3116,English/Mixed,5,kia,NOUN,VERB
+3116,English/Mixed,6,lakin,OTHER,OTHER
+3116,English/Mixed,7,extreme,ADJ,ADJ
+3116,English/Mixed,8,potency,NOUN,NOUN
+3116,English/Mixed,9,mila,NOUN,VERB
+3116,English/Mixed,10,mujhe,NOUN,PRON
+251,English/Mixed,1,quality,NOUN,NOUN
+251,English/Mixed,2,acha,NOUN,ADJ
+251,English/Mixed,3,tha,NOUN,VERB
+251,English/Mixed,4,sirf,ADJ,ADV
+251,English/Mixed,5,bazoun,NOUN,NOUN
+251,English/Mixed,6,par,NOUN,OTHER
+251,English/Mixed,7,buri,NOUN,ADJ
+251,English/Mixed,8,terhan,NOUN,NOUN
+251,English/Mixed,9,silai,NOUN,NOUN
+251,English/Mixed,10,karna,NOUN,VERB
+961,English/Mixed,1,bachon,NOUN,NOUN
+961,English/Mixed,2,k,NOUN,OTHER
+961,English/Mixed,3,lye,VERB,OTHER
+961,English/Mixed,4,acha,ADJ,ADJ
+961,English/Mixed,5,hai,NOUN,VERB
+961,English/Mixed,6,screen,NOUN,NOUN
+961,English/Mixed,7,size,NOUN,NOUN
+961,English/Mixed,8,bara,NOUN,ADJ
+961,English/Mixed,9,hai,NOUN,VERB
+961,English/Mixed,10,pura,NOUN,ADJ
+961,English/Mixed,11,din,NOUN,NOUN
+961,English/Mixed,12,cartoons,NOUN,NOUN

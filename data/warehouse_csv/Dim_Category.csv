@@ -1,0 +1,10 @@
+category_key,category_code,category_name,department_key
+1,FA,Fashion,2
+2,HB,Health & Beauty,2
+3,EL,Electronics,1
+4,ME,Media & Gaming,1
+5,HL,Home & Living,3
+6,TB,Toys & Baby,3
+7,SP,Sports & Outdoor,4
+8,OT,Other,4
+9,XX,Unknown,5

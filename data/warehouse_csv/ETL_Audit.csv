@@ -1,0 +1,4 @@
+step,rows_in,rows_out,note
+extract,3923,3923,rows read from xlsx
+flag duplicate text,3923,3923,"73 rows flagged, none deleted"
+transform,3923,3923,"fact rows built, all foreign keys resolved"

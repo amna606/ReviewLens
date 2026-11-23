@@ -1,0 +1,11 @@
+query,schema,median_ms,mean_ms,min_ms
+Q1 roll-up: sentiment by department > category,snowflake,90280.69,90280.69,90280.69
+Q1 roll-up: sentiment by department > category,flat,29426.042,29426.042,29426.042
+Q2 drill-down: negative share by category and year,snowflake,18210.935,18210.935,18210.935
+Q2 drill-down: negative share by category and year,flat,28025.36,28025.36,28025.36
+Q3 window function: top 10 products by negative reviews,snowflake,16096.268,16096.268,16096.268
+Q3 window function: top 10 products by negative reviews,flat,2849.559,2849.559,2849.559
+Q4 slice and dice: Roman Urdu x Electronics x 2018-2019,snowflake,4067.067,4067.067,4067.067
+Q4 slice and dice: Roman Urdu x Electronics x 2018-2019,flat,9230.055,9230.055,9230.055
+Q5 control (no hierarchy): top 15 keywords in negative reviews,n/a (control),80.497,80.497,80.497
+"Q6 summary table: same question as Q1, answered from Summary_Sentiment",summary table,2.944,2.944,2.944
